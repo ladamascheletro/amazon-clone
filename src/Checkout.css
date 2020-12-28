@@ -1,0 +1,51 @@
+.checkout {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1500px;
+    background-color: white;
+    height: max-content;
+    padding: 30px;
+}
+
+.checkout__ad {
+    background-color: rgb(189, 236, 255);
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.checkout__left > h1 {
+    text-align: left;
+    padding: 15px;
+    padding-top: 50px;
+}
+
+.checkout__right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10vh;
+}
+
+.checkout__subtotal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.subtotal__price {
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.checkout__button {
+    background-color: #f1aa4d;
+    border: 1px solid;
+    border-color: #a88734 #9c7e31 #846a29;
+    padding: 7px 10px;
+    color: #111;
+    margin-top: 10px;
+    margin-top: 30px;
+}
