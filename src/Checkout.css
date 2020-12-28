@@ -28,8 +28,9 @@
     align-items: flex-start;
     text-align: left;
     background-color: rgb(235, 235, 235);
-    padding: 3rem;
+    padding: 2.5rem;
     width: 30rem;
+    margin-left: 20px;
 
 }
 
