@@ -1,0 +1,17 @@
+.chackoutProduct {
+    display: flex;
+}
+
+.checkout__product__image {
+    height: 10rem;
+}
+
+.checkout__product__rating {
+    display: flex;
+}
+
+.checkout__product__info {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
